@@ -2,4 +2,4 @@
 
 ## 유튜브 링크 ( 이미지를 누르면 유튜브로 넘어갑니다 )
 
-[![Video Label](http://img.youtube.com/vi/VhCWoKUkexA/0.jpg)](https://youtu.be/VhCWoKUkexA)
+[![Video Label](http://img.youtube.com/vi/ryB6sfp3SNg/0.jpg)](https://youtu.be/ryB6sfp3SNg)
